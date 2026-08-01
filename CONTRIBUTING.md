@@ -19,11 +19,13 @@ Include: language, runtime version, and whether you can help implement against t
 
 Work in the language repo:
 
-| Language | Repository | Agent skill |
-|----------|------------|-------------|
-| TypeScript | https://github.com/nile-squad/nylonpay-ts | https://docs.nylonpay.nilesquad.com/docs/skills/typescript |
-| Python | https://github.com/nile-squad/nylonpay-py | https://docs.nylonpay.nilesquad.com/docs/skills/python |
-| PHP | https://github.com/nile-squad/nylonpay-php | https://docs.nylonpay.nilesquad.com/docs/skills/php |
+| Language | Repository | SDK skill |
+|----------|------------|-----------|
+| TypeScript | https://github.com/nile-squad/nylonpay-ts | https://github.com/nile-squad/nylonpay-ts/blob/main/SKILL.md |
+| Python | https://github.com/nile-squad/nylonpay-py | https://github.com/nile-squad/nylonpay-py/blob/main/SKILL.md |
+| PHP | https://github.com/nile-squad/nylonpay-php | https://github.com/nile-squad/nylonpay-php/blob/main/SKILL.md |
+
+Integration flows (all languages): https://docs.nylonpay.nilesquad.com/docs/skills
 
 Follow that repo’s README and the shared [SDK specification](https://github.com/nile-squad/specs/blob/main/nylonpay-sdk-spec/spec.md).
 

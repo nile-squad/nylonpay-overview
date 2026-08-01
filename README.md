@@ -13,11 +13,14 @@ This repository is the **public hub** for Nylon Pay: SDK links, documentation, a
 
 ## Official SDKs
 
-| Language | Status | Package | Repository | Agent skill |
-|----------|--------|---------|------------|-------------|
-| TypeScript | **Available** (reference) | [`@nile-squad/nylonpay-ts`](https://www.npmjs.com/package/@nile-squad/nylonpay-ts) | [nylonpay-ts](https://github.com/nile-squad/nylonpay-ts) | [TypeScript skill](https://docs.nylonpay.nilesquad.com/docs/skills/typescript) |
-| Python | **Available** | [`nylonpay-py`](https://pypi.org/project/nylonpay-py/) | [nylonpay-py](https://github.com/nile-squad/nylonpay-py) | [Python skill](https://docs.nylonpay.nilesquad.com/docs/skills/python) |
-| PHP | **Available** (alpha) | [`nile-squad/nylonpay-php`](https://packagist.org/packages/nile-squad/nylonpay-php) | [nylonpay-php](https://github.com/nile-squad/nylonpay-php) | [PHP skill](https://docs.nylonpay.nilesquad.com/docs/skills/php) |
+Load the [integration skill](https://docs.nylonpay.nilesquad.com/docs/skills) for
+flows and contracts, then the **SDK skill** (`SKILL.md`) for your language.
+
+| Language | Status | Package | Repository | SDK skill |
+|----------|--------|---------|------------|-----------|
+| TypeScript | **Available** (reference) | [`@nile-squad/nylonpay-ts`](https://www.npmjs.com/package/@nile-squad/nylonpay-ts) | [nylonpay-ts](https://github.com/nile-squad/nylonpay-ts) | [SKILL.md](https://github.com/nile-squad/nylonpay-ts/blob/main/SKILL.md) |
+| Python | **Available** | [`nylonpay-py`](https://pypi.org/project/nylonpay-py/) | [nylonpay-py](https://github.com/nile-squad/nylonpay-py) | [SKILL.md](https://github.com/nile-squad/nylonpay-py/blob/main/SKILL.md) |
+| PHP | **Available** (alpha) | [`nile-squad/nylonpay-php`](https://packagist.org/packages/nile-squad/nylonpay-php) | [nylonpay-php](https://github.com/nile-squad/nylonpay-php) | [SKILL.md](https://github.com/nile-squad/nylonpay-php/blob/main/SKILL.md) |
 | Go | **In pipeline** | — | Coming soon | — |
 | C# | **In pipeline** | — | Coming soon | — |
 | Rust | Planned | — | — | — |
