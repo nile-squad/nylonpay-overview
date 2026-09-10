@@ -34,9 +34,9 @@ All SDKs follow the same [SDK specification](https://github.com/nile-squad/specs
 
 - [Quick start](https://docs.nylonpay.nilesquad.com/docs/quickstart)
 - [SDK reference](https://docs.nylonpay.nilesquad.com/docs/sdk)
-- [Supported languages](https://docs.nylonpay.nilesquad.com/docs/coverage/supported-languages)
+- [Coverage](https://docs.nylonpay.nilesquad.com/docs/coverage)
 - [Agent skills and example prompts](https://docs.nylonpay.nilesquad.com/docs/skills)
-- [API types](https://docs.nylonpay.nilesquad.com/docs/api-reference/types)
+- [API types](https://docs.nylonpay.nilesquad.com/docs/sdk/types)
 
 ## Want another language SDK?
 
